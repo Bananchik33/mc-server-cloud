@@ -1,0 +1,15 @@
+{
+    "chunks": [
+        {
+            "name": "mods.zip",
+            "url": "https://github.com/Bananchik33/mc-server-cloud/releases/download/v1.0/mods.zip",
+            "md5": "6368264e1bbdd5a852334fe0268d582c"
+        }
+    ],
+    "mods": [
+        {
+            "name": "tl_skin_cape_forge_1.20-1.38.jar",
+            "md5": "919d6bfbacb68cef79f23269b2b4816e"
+        }
+    ]
+}
